@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Athul 👋
 
-<!--
-**Alpha1ne/Alpha1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & DevOps | CEH · CCNA · RHCE · MCSA
 
-Here are some ideas to get you started:
+Learning by building — not just reading. Currently working on automation and SOC lab projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**[ansible-linux-hardening](https://github.com/Alpha1ne/ansible-linux-hardening)**
+Ansible playbook for automated Linux server updates and SSH hardening.
+
+**[soc-lab-wazuh-elk](https://github.com/Alpha1ne/soc-lab-wazuh-elk)**
+SOC simulation lab with Wazuh — deployed a SIEM, simulated an SSH brute-force attack, detected it with MITRE ATT&CK-mapped alerts.
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/athul-c-a622b0419) · [TryHackMe](https://tryhackme.com/p/Alpha1ne)
