@@ -14,4 +14,4 @@ SOC simulation lab with Wazuh — deployed a SIEM, simulated an SSH brute-force 
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/athul-c-a622b0419) · [TryHackMe](https://tryhackme.com/p/Alpha1ne)
+📫  · [TryHackMe](https://tryhackme.com/p/Alpha1ne)
