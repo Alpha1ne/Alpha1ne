@@ -1,17 +1,34 @@
-### Hi, I'm Athul 👋
+# Hi, I'm Athul 👋
 
-Cybersecurity & DevOps | CEH · CCNA · RHCE · MCSA
+**Breaking things on purpose, so I understand how to defend them.**
 
-Learning by building — not just reading. Currently working on automation and SOC lab projects.
+I'm making the shift from operations into the world of logs, alerts, and infrastructure that isn't supposed to fail. This profile is my lab notebook in public.
 
 ---
+
+### 🧭 What I'm doing here
+
+I don't learn a system by reading about it — I stand it up, attack it, watch it fail, and rebuild it properly. Every repo here started as a question I couldn't answer yet.
+
+Right now that means:
+- Standing up detection pipelines and learning to read what they're telling me
+- Automating the boring, error-prone parts of infrastructure
+- Mapping real attacker behavior to real defensive signal
+
+---
+
+### 🧪 The Lab Log
 
 **[ansible-linux-hardening](https://github.com/Alpha1ne/ansible-linux-hardening)**
-Ansible playbook for automated Linux server updates and SSH hardening.
+A playbook that patches and locks down Linux servers automatically.
 
 **[soc-lab-wazuh-elk](https://github.com/Alpha1ne/soc-lab-wazuh-elk)**
-SOC simulation lab with Wazuh — deployed a SIEM, simulated an SSH brute-force attack, detected it with MITRE ATT&CK-mapped alerts.
+A homegrown watchtower — detection stack built from scratch, an intrusion simulated against it, alerts mapped back to real attacker behavior.
 
 ---
 
-📫  · [TryHackMe](https://tryhackme.com/p/Alpha1ne)
+### 📫 Find me
+
+**[TryHackMe](https://tryhackme.com/p/Alpha1ne)**
+
+*Still learning. Still building. Still breaking things on purpose.*
