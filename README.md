@@ -26,7 +26,7 @@ A playbook that patches and locks down Linux servers automatically.
 A homegrown watchtower — detection stack built from scratch, an intrusion simulated against it, alerts mapped back to real attacker behavior.
 
 **[CreatorLog](https://github.com/Alpha1ne/CreatorLog)**
-An Android app built for my brother to track Instagram song posts and content ideas — Kotlin, Jetpack Compose, and Room.
+An Android app built to track Instagram song posts and content ideas — Kotlin, Jetpack Compose, and Room.
 
 ---
 
