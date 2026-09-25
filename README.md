@@ -25,6 +25,9 @@ A playbook that patches and locks down Linux servers automatically.
 **[soc-lab-wazuh-elk](https://github.com/Alpha1ne/soc-lab-wazuh-elk)**
 A homegrown watchtower — detection stack built from scratch, an intrusion simulated against it, alerts mapped back to real attacker behavior.
 
+**[CreatorLog](https://github.com/Alpha1ne/CreatorLog)**
+An Android app built for my brother to track Instagram song posts and content ideas — Kotlin, Jetpack Compose, and Room.
+
 ---
 
 ### 📫 Find me
